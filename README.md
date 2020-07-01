@@ -3,3 +3,4 @@ Predicting Life Expectancy using Machine Learning
 using Machine learning regression model to predict life expectancy.
 Language used - python
 Library used - Numpy,pandas,scikit learn,matplotlib,seaborn
+The test.py is used for training the model

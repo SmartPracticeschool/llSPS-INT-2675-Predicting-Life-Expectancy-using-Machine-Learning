@@ -1,0 +1,2 @@
+Link of my node-red flow:
+https://node-red-mdjsx.eu-gb.mybluemix.net/ui/#!/0?socketid=pXESrqN0Qpuvhh85AAAG
